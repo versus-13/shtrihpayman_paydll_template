@@ -1,0 +1,2 @@
+# shtrihpayman_paydll_template
+ShtrihPayManager module template
