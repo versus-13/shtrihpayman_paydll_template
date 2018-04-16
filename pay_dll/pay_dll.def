@@ -1,0 +1,12 @@
+LIBRARY      "pay_dll"
+DESCRIPTION  'Empty ShtrihPayMan module'
+
+EXPORTS
+	GetInfo @1
+	Init @2
+	Done @3
+	CloseDay @4
+	ShowProperties @5
+	Pay @6
+	CancelLastTransaction @7
+    ; Explicit exports can go here
